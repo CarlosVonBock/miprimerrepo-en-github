@@ -8,3 +8,6 @@ ahora si ya voy entendiendo como es la cosa
 no entiendo porque no aparece el cambio
 
 se hizo un cambio en github
+
+
+que dijeron, que no iba a poder
