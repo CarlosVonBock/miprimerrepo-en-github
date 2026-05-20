@@ -3,4 +3,5 @@ ya me aburri y todavia no se me queda, ya voy aprendiendo
 cada vez le voy agarrando mas la onda
 al menos de forma local
 no era asi la cosa
+habia que cerrar primero el archivo
 camios desde mi rama principal
