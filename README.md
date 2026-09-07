@@ -1,17 +1,10 @@
 # miprimerrepo
 primera experiencia en github
 
- o sea que este readme no es el mismo en git
- 
-ahora si ya voy entendiendo como es la cosa
+se pone dura la cosa tulio 
 
-no entiendo porque no aparece el cambio
+esto es ligeramente confuso e interesante
 
-se hizo un cambio en github
-
-ya entendi
-
-
-
-
-que dijeron, que no iba a poder
+cambio desde developer01
+algo raro sucedio
+desde dev 01
